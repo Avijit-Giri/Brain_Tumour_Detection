@@ -12,7 +12,7 @@ This project provides a web-based system for detecting brain tumors from MRI ima
 
 ## Demo
 
-![Screenshot of Web Interface](screenshot.png) <!-- Add a screenshot if available -->
+![Screenshot of Web Interface](Demo_Image.png) <!-- Add a screenshot if available -->
 
 ## Getting Started
 
